@@ -26,7 +26,7 @@ class PythonStudent():
         return None
 
 
-# 实例化一个学生
+# 实例化一个学生信息
 yyt = PythonStudent()
 yyt.name = "yyt"
 print(yyt.name)
