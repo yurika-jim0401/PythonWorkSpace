@@ -90,5 +90,4 @@ p = People()
 b = B()
 setattr(b,"age",23)
 print(b.age)
-
 print(getattr(b,"name"))
