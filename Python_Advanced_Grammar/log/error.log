@@ -1,0 +1,2 @@
+2018-09-17 17:43:12,570 - ERROR - ex02.py[:39] - this is error
+2018-09-17 17:43:12,571 - CRITICAL - ex02.py[:40] - this is critical
